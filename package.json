@@ -1,0 +1,21 @@
+{
+  "name": "try1",
+  "version": "1.0.0",
+  "description": "hello this wadu's project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "jai",
+    "shree",
+    "ram"
+  ],
+  "author": "pranav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
